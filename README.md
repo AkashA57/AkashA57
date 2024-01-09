@@ -34,5 +34,5 @@ I have been involved in various software development projects in banking, paymen
 
 ### Youtube Collabs
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Zhigrana - 'Nachana' improvised](https://ytcards.demolab.com/?id=AFYdH1cIyVA&title=Zhigrana+-+%27Nachana%27+improvised&lang=en&timestamp=1704766041&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=182 "Zhigrana - 'Nachana' improvised")](https://www.youtube.com/watch?v=AFYdH1cIyVA)
 <!-- END YOUTUBE-CARDS -->
