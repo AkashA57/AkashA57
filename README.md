@@ -9,7 +9,7 @@ I have been involved in various software development projects in banking, paymen
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [Coming Soon](http://comingsoon)
 * 🧠  I'm learning Brain Computer Interface, TensorFlow, Arduino
-* 🤝  I'm open to collaborating on Machine Learning projects, Robotics, Data Analytics
+* 🤝  I'm open to collaborating on Software Engineering, Machine Learning projects, Robotics, Data Analytics
 * ⚡  I am mostly using company gitLab page but I will stay more active here as well for this year. As a confession, I mistakenly deleted personal python projects from my PC so will be uploading all my codes here from now on.
 
 ### Skills
